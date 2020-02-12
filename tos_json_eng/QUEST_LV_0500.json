@@ -1,0 +1,290 @@
+[
+    {
+        "name": "QUEST_LV_0500_20190419_000001",
+        "text": "I would rather have someone else do it if it's something that absolutely needs doing.{nl}Why does it always have to be me?"
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000002",
+        "text": "The demons and monsters are still at large...{nl}At least we don't have to worry about being robbed by highwaymen.{nl}That is if we can make it out alive."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000003",
+        "text": "You go out scouting for days then you have to write up a report for days more!{nl}Can we get anything done in this state?"
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000004",
+        "text": "I'm here to assist Tadas.{nl}I'm not here to clean up after Wolke's mess."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000005",
+        "text": "I've tricked Kartas and prevented him from stealing the Seed of the Divine Tree.{nl}If I could break away from these seals, I would be able to recover on my own."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000006",
+        "text": "Why would Kartas go so far as to imprison me under this barrier...{nl}Does he really know the properties of this seed...?"
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000007",
+        "text": "I'm going to find Miss Neringa as soon as I feel a little better.{nl}I'm sure she will know a way for us to rescue Master Medeina from Kartas."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000008",
+        "text": "Revelator! There's an evil barrier surrounding the forest, it's dangerous in here!{nl}Please, you have to go!"
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000009",
+        "text": "We're trapped inside Kartas' barrier, and Master Medeina's powers aren't enough to break it.{nl}We need to help her regain her strength..."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000010",
+        "text": "If Kartas finds us, we'll be in great danger.{nl}Please, help Master Medeina recover."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000011",
+        "text": "I'm glad Ilona is safe at least, despite the barrier.{nl}Revelator, please look for a way to deactivate the barrier."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000012",
+        "text": "Take Ilona and find Master Medeina."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000013",
+        "text": "Her footprints stop here. Should we look inside the courtyard?"
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000014",
+        "text": "Oh, I'm so glad Master Medeina is safe!{nl}That Teleportation Magic Circle needs to be destroyed..."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000015",
+        "text": "Revelator, please destroy the magic circle.{nl}This might be the only chance we get while Kartas is gone."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000016",
+        "text": "Master Medeina's barrier is finally gone.{nl}We should hurry now..."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000017",
+        "text": "Overloading the second magic circle worked!"
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000018",
+        "text": "Oh... Master Medeina..."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000019",
+        "text": "She..."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000020",
+        "text": "I was too late..."
+    },
+    {
+        "name": "QUEST_LV_0500_20190419_000021",
+        "text": "Although Master Medeina was taken by Kartas...{nl}Your precious help will always be remembered, Revelator.{nl}"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000022",
+        "text": "Defeat the Nuka Warrior, Nuo Assassin"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000023",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}defeat the Nuka Warrior and Nuo Assassin in Tvirtumas Fortress."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000024",
+        "text": "Defeat the Akhlass Petal Warrior"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000025",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}defeat the Akhlass Petal Warrior in Tvirtumas Fortress."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000026",
+        "text": "Defeat the Living Armor"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000027",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Living Armor in Tvirtumas Fortress."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000028",
+        "text": "Defeat the Ilgaranka"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000029",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Ilgaranka in Tvirtumas Fortress."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000030",
+        "text": "Defeat the Bloguz Goblin Rider, Necko"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000031",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Bloguz Goblin Rider and Necko at the Outskirts of Skalda."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000032",
+        "text": "Grey Wolf"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000033",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Grey Wolf at the Outskirts of Skalda."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000034",
+        "text": "Defeat the Bloguz Goblin Archer"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000035",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Bloguz Goblin Aarcher at the Outskirts of Skalda."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000036",
+        "text": "Defeat the Grey Wolf Chief"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000037",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Grey Wolf Chief at the Outskirts of Skalda."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000038",
+        "text": "Defeat the Orc Spearman"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000039",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Orc Spearman at the Rinksmas Ruins."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000040",
+        "text": "Defeat the Orc Shaman"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000041",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Orc Shaman at the Rinksmas Ruins."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000042",
+        "text": "Defeat the Orc Peltast"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000043",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Orc Peltast at the Rinksmas Ruins."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000044",
+        "text": "Defeat the Orc Leader"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000045",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Orc Leader at the Rinksmas Ruins."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000046",
+        "text": "Defeat the monsters at Rinksmas Ruins"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000047",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat monsters at the Rinksmas Ruins."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000048",
+        "text": "Defeat the Orc Cannoneer"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000049",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Orc Cannoneer at the Road of Demise."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000050",
+        "text": "Defeat the Orc Flagbearer"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000051",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Orc Flagbearer at the Road of Demise."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000052",
+        "text": "Defeat the Orc Captain"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000053",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the Orc Captain at the Road of Demise."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000054",
+        "text": "Defeat Monsters at the Road of Demise"
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000055",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post{nl}Defeat the monsters at the Road of Demise."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000056",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Nuka Warrior and Nuo Assassin in Tvirtumas Fortress."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000057",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Akhlass Petal Warrior in Tvirtumas Fortress."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000058",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Living Armor in Tvirtumas Fortress."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000059",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Ilgaranka in Tvirtumas Fortress."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000060",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Bloguz Goblin Rider and Necko at the Outskirts of Skalda."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000061",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Grey Wolf at the Outskirts of Skalda."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000062",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Bloguz Goblin Archer at the Outskirts of Skalda."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000063",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Grey Wolf Chief at the Outskirts of Skalda."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000064",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Orc Spearman at the Rinksmas Ruins."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000065",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Orc Shaman at the Rinksmas Ruins."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000066",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Orc Peltast at the Rinksmas Ruins."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000067",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Orc Leader at the Rinksmas Ruins."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000068",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat monsters at the Rinksmas Ruins."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000069",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Orc Cannoneer at the Road of Demise."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000070",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Orc Flagbearer at the Road of Demise."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000071",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the Orc Captain at the Road of Demise."
+    },
+    {
+        "name": "QUEST_LV_0500_20200129_000072",
+        "text": "On the request of Receptionist Ramda of the Mercenary Post defeat the monsters at the Road of Demise."
+    }
+]
